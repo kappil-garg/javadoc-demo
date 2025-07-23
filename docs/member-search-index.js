@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.kapil.javadocdemo","c":"JavadocDemo","l":"calculateCube(long)"},{"p":"com.kapil.javadocdemo","c":"JavadocDemo","l":"JavadocDemo()","u":"%3Cinit%3E()"},{"p":"com.kapil.javadocdemo","c":"JavadocDemo","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();

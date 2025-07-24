@@ -1,5 +1,8 @@
 # 🚀 Javadoc-Demo
-[![Javadoc Demo](https://img.shields.io/badge/Javadoc-Demo-blue.svg)](https://kappil-garg.github.io/javadoc-demo/)
+![Javadoc Demo](https://img.shields.io/badge/Javadoc-Demo-blue.svg)
+&nbsp;
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-teal?logo=github)](https://kappil-garg.github.io/javadoc-demo/)
+&nbsp;
 ![License: MIT](https://img.shields.io/badge/License-MIT-blueviolet.svg)
 
 This repository demonstrates how to generate HTML pages of API documentation from Java source files using the Javadoc tool.
@@ -123,7 +126,7 @@ Explore the [Project Wiki](https://github.com/kappil-garg/javadoc-demo/wiki) to 
 
 ---
 
-### Tags
+## 🏷️ Tags
 
 `#java` `#javadoc` `#javadoc-tool` `#github-pages` `#javadoc-visualization`
 

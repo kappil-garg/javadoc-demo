@@ -117,6 +117,7 @@ Explore the [Project Wiki](https://github.com/kappil-garg/javadoc-demo/wiki) to 
 
 - [Javadoc Tool Reference](https://docs.oracle.com/en/java/javase/21/docs/specs/man/javadoc.html)
 - [Oracle’s Official Javadoc Guide](https://docs.oracle.com/en/java/javase/21/docs/specs/javadoc/doc-comment-spec.html)
+- [Using Javadoc to Write Self-Explaining Code (Medium Article)](https://kappil-garg.medium.com/javadoc-made-easy-write-clean-documented-java-code-that-speaks-for-itself-11fdeef31b82)
 
 ---
 
